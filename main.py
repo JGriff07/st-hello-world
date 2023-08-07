@@ -8,5 +8,5 @@ st.header("Streamlit App")
 st.subheader("Programmed in PyCharm, Pushed to GitHub, and Hosted by Streamlit")
 st.write("Hello World! It's great to meet you.")
 
-image = Image.open('sunrise_coastline.png')
-st.image(image, caption='Sunrise on the coast.')
+image = Image.open('sunrise_island.jpeg')
+st.image(image, caption='Sunrise over an island.')
