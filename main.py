@@ -10,3 +10,6 @@ st.write("Hello World! It's great to meet you.")
 
 image = Image.open('sunrise_island.jpeg')
 st.image(image, caption='Sunrise over an island.')
+
+timeline = Image.open('Figure_1.png')
+st.image(timeline, caption='Generated Timeline.')
